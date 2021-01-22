@@ -93,9 +93,9 @@
 		
 	</dependencies>
 	
-	<!--<distributionManagement>
+	<distributionManagement>
 	
-	    <repository>
+	   <!-- <repository>
 	      <id>nexus</id>
 	      <name>Ale_Release</name>
 	      <url>http://localhost:8081/repository/Ale_Release/</url>
@@ -105,9 +105,9 @@
 	      <id>nexus</id>
 	      <name>Ale_Snapshot</name>
 	      <url>http://localhost:8081/repository/Ale_Snapshot/</url>
-	    </snapshotRepository>
+	    </snapshotRepository>-->
 	    
-	</distributionManagement>-->
+ </distributionManagement>
 	
 	<build>
 		<finalName>maven-web-application1</finalName>
